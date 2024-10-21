@@ -1,1 +1,2 @@
 # AlgoDataJavaPatterns
+# Core Java
